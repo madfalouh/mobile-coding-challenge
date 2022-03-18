@@ -13,7 +13,7 @@ As a User I should be able to list the most starred Github repos that were creat
 ◦ Number of issues for the repo.<br/>
 ◦ Username and avatar of the owner.<br/>
 
-# Setup the environment and Running the app
+# Setting up the environment and Running the app
 
 Install the latest version of the Expo CLI : 
 ```
