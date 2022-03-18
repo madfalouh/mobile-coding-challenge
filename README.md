@@ -5,16 +5,15 @@ As a User I should be able to list the most starred Github repos that were creat
 30 days.
 •
 
-• As a User I should see the results as a list. One repository per row.
-• As a User I should be able to see for each repo/row the following details :
-◦ Repository name
-◦ Repository description
-◦ Number of stars for the repo.
-◦ Number of issues for the repo.
-◦ Username and avatar of the owner.
+• As a User I should see the results as a list. One repository per row.<br/>
+• As a User I should be able to see for each repo/row the following details :<br/>
+◦ Repository name<br/>
+◦ Repository description<br/>
+◦ Number of stars for the repo.<br/>
+◦ Number of issues for the repo.<br/>
+◦ Username and avatar of the owner.<br/>
 
-# Available Scripts
-
+# Set up the environment and Running the app
 
 ```
 expo start
