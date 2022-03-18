@@ -1,0 +1,21 @@
+{
+  "expo": {
+    "name": "myp",
+    "slug": "myp",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "splash": {
+     
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    }
+    }
+  }
+
