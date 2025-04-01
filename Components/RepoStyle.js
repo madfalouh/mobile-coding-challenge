@@ -28,15 +28,6 @@ const RepoStyle= ({
 
   return (
 
-
-
-
-
-
-
-
-
-
     <View
       style={{
         margin: scale(10),
